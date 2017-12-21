@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to FashionistaEye Page
 
 You can use the [editor on GitHub](https://github.com/kirtanpatel91/FashionistaEye/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
