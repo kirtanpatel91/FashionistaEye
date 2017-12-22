@@ -32,15 +32,6 @@ li {
     border-radius:20px
 }
 
-body {
-    font-family: Georgia, Times, serif;
-    color: purple;
-    background-color: #d8da3d
-}
-h1 {
-    font-family: Helvetica, Arial
-}
-
 /* Give the user an affordance that each link is clickable. */
 #navbar a:hover {
     border-color:#000
